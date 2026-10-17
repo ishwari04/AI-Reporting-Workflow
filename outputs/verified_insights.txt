@@ -1,0 +1,46 @@
+
+VERIFIED BUSINESS FACTS
+=======================
+
+REGION ANALYSIS
+---------------
+
+Highest Revenue Region:
+West
+Revenue: ₹18,519,000
+
+Highest Lead-to-Customer Rate:
+North
+Rate: 6.74%
+
+Highest Customer Acquisition Cost:
+South
+CAC: ₹12,228.40
+
+Highest Marketing ROI:
+North
+ROI: 748.94%
+
+
+LEAD SOURCE ANALYSIS
+--------------------
+
+Highest Revenue Source:
+Referral
+Revenue: ₹17,173,000
+
+Highest Lead-to-Customer Rate:
+Referral
+Rate: 11.49%
+
+Highest Customer Acquisition Cost:
+Google Ads
+CAC: ₹28,120.25
+
+Highest Marketing ROI:
+Referral
+ROI: 2539.97%
+
+Lowest Lead-to-Customer Rate:
+Email Campaign
+Rate: 2.62%
